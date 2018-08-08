@@ -1,0 +1,8 @@
+{
+  "name": "saniro_app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "248f23e1"
+}
